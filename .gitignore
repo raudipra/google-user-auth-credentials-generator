@@ -1,0 +1,11 @@
+# Ignore Gradle project-specific cache directory
+.gradle
+.vscode
+**/.DS_Store
+
+# Ignore Gradle build output directory
+build
+bin
+
+**/google-authorized-user-credentials.json
+**/google-client-credentials.json
